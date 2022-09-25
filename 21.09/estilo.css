@@ -1,0 +1,24 @@
+.cor{
+    color:rgb(181, 28, 82)
+}
+h2{
+    color:darkviolet
+}
+p{
+    color:lime
+}
+body{
+    background-color:violet;
+}
+
+#h1-cor{
+    color:rgb(225, 248, 19);
+}
+
+#p-font{
+    color:darkmagenta;
+}
+
+#p-font{
+    font-family: 'Times New Roman', Times, serif;
+}
