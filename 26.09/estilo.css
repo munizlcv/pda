@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(225, 63, 90);
+}
+
+button{
+    /* margem do topo */
+    margin-top: 100px;
+/* margem de esquerda para direita */
+    margin-left:100px;
+/*margem esquerda para direita */
+    margin-right:100px;
+/*  margem direita para esquerda*/
+    margin-bottom:100px;
+/* margem
+ do fundo */
+}
+#botao-espacamento{
+    background-color:aqua;
+    /* atalho para declaração de todos as partes da margem */
+margin:0;
+/* padding-top: 100px;
+padding-left: 200px;
+padding-right: 200px;
+padding-bottom: 100px; */
+padding: 10px;
+border-style:none;
+}
+
+#botao-border{
+    /* border-style: double;
+    border-width: 15px;
+    border-color:aqua; */
+    border: 15px double aqua;
+}
+
+#botao-border:hover{
+    border:none;
+    background-color: blue;
+    width:100px;
+    height: 100px;
+}
+

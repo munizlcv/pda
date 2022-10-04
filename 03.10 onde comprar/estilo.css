@@ -1,0 +1,15 @@
+#h1{
+    padding:30px;
+    color:goldenrod;
+    background-color: rgb(53, 5, 5);
+    justify-content: center;
+}
+
+#ondecomprar{
+    list-style: none;
+}
+
+body{
+    background-color: rgb(208, 76, 162);
+}
+

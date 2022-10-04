@@ -1,0 +1,54 @@
+button{
+    /* margem do topo */
+    margin-top: 100px;
+    /* margem da esquerda para direita */
+    margin-left:100px;
+    /* margem da direita para esquerda */
+    margin-right: 100px;
+    /* margem do fundo */
+    margin-bottom:100px;
+}
+#botao-espacamento{
+    background-color: blueviolet;
+    /* Atalho para declaração de todos as partes da margem */
+    margin:0;
+    /* padding-top: 100px; 
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 100px; */
+    /* padding: 200px 20px; */
+    padding: 10px;
+    border-style:none;
+}
+
+#botao-border{
+    /* border-style: double;
+    border-width: 15px;
+    border-color:aqua; */
+    border: 15px double aqua; 
+}
+
+#botao-border:hover{
+    border:none;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+header{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 10px;
+}
+header a{
+    color:white;
+
+}
+/* efeito de mouse */
+a:hover{
+    background-color: white;
+    color: black;
+    border-style: double;
+    font-size:20px;
+    padding-left: 50px;
+}
